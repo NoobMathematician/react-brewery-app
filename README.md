@@ -14,7 +14,7 @@ https://react-app-breweries.netlify.app/
 
 `npm install`
 
-to nstalls project dependencies and
+to installs project dependencies and
 
 `npm run start`
 
