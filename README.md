@@ -1,6 +1,11 @@
 ##### Deployed at:
 https://react-app-breweries.netlify.app/
 
+##### Tasks:
+1. create hompage displying some of user information in cards
+2.  
+
+
 ##### To run this app:
 
 `npm install`
