@@ -2,9 +2,9 @@
 
 `npm install`
 
-Installs project dependencies
+to nstalls project dependencies and
 
 `npm run start`
 
-Runs the app in the development mode.\
+to run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
