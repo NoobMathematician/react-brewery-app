@@ -1,0 +1,20 @@
+.card{
+  background-color: #e5e5e5;
+  color: var(--primary);
+  min-height: 200px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.card-body{
+  padding: 34px;
+}
+.card-button {
+    width: 100%;
+    min-width: 100% !important;
+    text-decoration: none;
+    text-align: center;
+    padding: 8px 10px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,20 @@
+:root{
+  --primary: rgb(103, 92, 92);
+  --secondary: rgb(165, 206, 212);
+  --light: rgb(255, 244, 244);
+}
+html, body{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;  
+}
+body {
+  background-color: #012030;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.text-light{
+  color: var(--light);
+}
+
+

@@ -1,0 +1,19 @@
+.btn{
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: color 0.5s, transform 0.2s, background-color 0.2s;
+}
+.btn:hover {
+  background-color: #219ebc; /* Green */
+  color: white;
+}
+.btn-primary{
+  color: var(--primary);
+  background: var(--secondary);
+}
+.btn-large{
+  padding: 20px;
+  height: 60px;
+  width: 100%;
+  font-weight: bold;
+}

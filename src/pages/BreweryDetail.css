@@ -1,0 +1,19 @@
+.brew {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.card-bordered {
+    padding: 20px 50px;
+    border: 2px solid rgb(146, 149, 151);
+}
+
+@media screen and (max-width: 786px) {
+    .brew {
+        padding: 10px;
+    }
+    .card-bordered {
+        padding: 20px 5px;
+    }
+}
